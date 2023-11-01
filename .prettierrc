@@ -1,0 +1,10 @@
+{
+  "singleQuote": false,
+  "arrowParens": "always",
+  "bracketSameLine": false,
+  "bracketSpacing": true,
+  "tabWidth": 2,
+  "cursorOffset": -1,
+  "semi": true,
+  "trailingComma": "es5"
+}
